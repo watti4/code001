@@ -51,6 +51,8 @@ h2, p{
           margin: auto;
         
         }
-
+        .container img{
+            width: 93%;
+        }
       }
 
